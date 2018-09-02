@@ -1,0 +1,10 @@
+#joke-button {
+  width: 100px;
+  height: 50px;
+  border-radius: 10px;
+}
+#joke-container {
+  width: 500px;
+  height: auto;
+  margin-top: 40px;
+}
